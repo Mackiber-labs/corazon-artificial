@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 ✅ Diseño conceptual completo  
 ✅ Especificaciones técnicas definidas  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Resumen ejecutivo
+## Resumen ejecutivo
 
 Este repositorio contiene el diseño de un **corazón artificial híbrido** que supera las limitaciones de los dispositivos actuales (neumáticos, cable externo, anticoagulación obligatoria).
 
@@ -26,7 +26,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 
 ---
 
-## 🏗️ Arquitectura general
+## Arquitectura general
 
 | Capa | Material | Función |
 |------|----------|---------|
@@ -48,7 +48,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 
 ---
 
-## 📂 Estructura del repositorio
+## Estructura del repositorio
 
 - `/docs/` — Documentación completa del diseño.
 - `/docs/Especificaciones_Tecnicas.md` — Tablas con parámetros detallados.
@@ -59,7 +59,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 
 ---
 
-## 🔗 Enlaces
+## Enlaces
 
 - **Zenodo**: (DOI pendiente)
 - **Documento completo**: `/docs/Diseno_Completo_v1.0.md`
@@ -68,7 +68,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Enrique Aguayo H.** — Mackiber Labs  
 Contacto: eaguayo@migst.cl  
