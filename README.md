@@ -64,7 +64,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 - **Zenodo**: (DOI pendiente)
 - **Documento completo**: `/docs/Diseno_Completo_v1.0.md`
 - **Especificaciones técnicas**: `/docs/Especificaciones_Tecnicas.md`
-- **Licencia**: CC BY-NC 4.0
+
 
 ---
 
@@ -73,11 +73,7 @@ La innovación principal es una **doble capa estructural** con una trama de burb
 **Enrique Aguayo H.** — Mackiber Labs  
 Contacto: eaguayo@migst.cl  
 ORCID: 0009-0004-4615-6825  
-GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
+https://github.com/Mackiber-labs/corazon-artificial
 
----
 
-## 🧾 Licencia
 
-Este proyecto está bajo licencia **CC BY-NC 4.0**.  
-Uso no comercial permitido con atribución.
